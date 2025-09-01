@@ -1,6 +1,6 @@
 
 
-*/ Fundo Site */
+ /* Fundo */
 
 *{
     margin: 0;
@@ -600,9 +600,9 @@ section.formulario {
 
   .especialidades-boxes,
   .artigo-box {
-    max-width: 300px; /* limita a largura para melhor leitura */
-    text-align: center; /* centraliza o texto e ícones */
-    margin: 0 15px; /* espaço lateral entre as caixas */
+    max-width: 300px; 
+    text-align: center; 
+    margin: 0 15px; 
   }
 
 
